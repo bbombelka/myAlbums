@@ -1,0 +1,15 @@
+#bar {
+  animation-name: barLoad;
+  animation-fill-mode: both;
+  animation-delay: none;
+  animation-timing-function: cubic-bezier(0.37, 0.57, 0.89, 0.24);
+}
+
+@keyframes barLoad {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}

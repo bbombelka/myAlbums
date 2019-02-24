@@ -1,0 +1,46 @@
+{
+  "albums": [
+    {
+      "artist": "Burzum",
+      "album": "Filosofem",
+      "id": 14,
+      "image": "https://cdn.shoplightspeed.com/shops/610080/files/3605241/burzum-filosofem.jpg"
+    },
+    {
+      "artist": "Limp Bizkit",
+      "album": "Significant Othe",
+      "id": 13,
+      "image": "https://i.ebayimg.com/images/g/lSkAAOSwMxJb2G64/s-l300.jpg"
+    },
+    {
+      "artist": "Ross From Friends",
+      "album": "Outsiders",
+      "image": "https://cdn2.albumoftheyear.org/345x/album/84656-the-outsiders.jpg",
+      "id": 17
+    },
+    {
+      "artist": "Bvdub",
+      "album": "Tribes at the Temple of Silence",
+      "image": "https://f4.bcbits.com/img/a1226577847_10.jpg",
+      "id": 18
+    },
+    {
+      "artist": "Timewriter",
+      "album": "Soulstickers",
+      "image": "https://img.discogs.com/VUiz_RgZW3vdlgbI5NUibWE8RzA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-974508-1261027141.jpeg.jpg",
+      "id": 19
+    },
+    {
+      "artist": "Earth House Hold",
+      "album": "When Love Lived",
+      "image": "https://f4.bcbits.com/img/a0553867828_16.jpg",
+      "id": 20
+    },
+    {
+      "artist": "Raar",
+      "album": "Cause it's dirty",
+      "image": "https://img.discogs.com/BL6menL2ezK0Yo6rheYpniCG5-A=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8004538-1453310165-3210.jpeg.jpg",
+      "id": 21
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "albums": [
+    {
+      "artist": "Death",
+      "album": "Spiritual Healing",
+      "id": 7,
+      "image": "https://image.ceneostatic.pl/data/products/24295867/i-death-spiritual-healing-cd.jpg"
+    },
+    {
+      "artist": "Nirvana",
+      "album": "In Utero",
+      "id": 8,
+      "image": "http://winyleszczecin.com/wp-content/uploads/2017/09/R-7545132-1522887537-4024.jpeg1_.jpg"
+    },
+    {
+      "artist": "Burzum",
+      "album": "Filosofem",
+      "id": 14,
+      "image": "https://cdn.shoplightspeed.com/shops/610080/files/3605241/burzum-filosofem.jpg"
+    },
+    {
+      "artist": "Limp Bizkit",
+      "album": "Significant Other",
+      "id": 13,
+      "image": "https://i.ebayimg.com/images/g/lSkAAOSwMxJb2G64/s-l300.jpg"
+    },
+    {
+      "artist": "Metallica",
+      "album": "Black Album",
+      "id": 12,
+      "image": "https://www.beatit.tv/wp-content/uploads/2016/09/black-album-cover.jpg"
+    },
+    {
+      "artist": "Sepultura",
+      "album": "Arise",
+      "image": "https://pagan-records.com/userdata/gfx/120b85d9f138da7279d7b794349fb731.jpg",
+      "id": 15
+    },
+    {
+      "artist": "Jakob",
+      "album": "Solace",
+      "image": "https://f4.bcbits.com/img/a2190582620_16.jpg",
+      "id": 16
+    }
+  ]
+}
