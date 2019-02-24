@@ -10,7 +10,7 @@ json-server --watch albums.json --port 4000
 
 in the command line. Then start another terminal and run npm start
 
-It's a typical CRUD App nontheless it takes advantage of Contextprovider, ReactRouter, includes most fetch methods, classnames to support the validation. Bootstrap supports the styling, still doesn't look like an eye candy ;-)
+It's a crud and simple application nontheless it takes advantage of React.createContext, ReactRouter, includes typical fetch methods, classnames to support the validation. I thougth implementing redux state manager would be an exaggeration looking at the size of state and the React.createContext API was used instead.  Yet I tried to mimic the action of redux by creating reducer functions. Bootstrap supports the styling, still the app doesn't look like an eye candy ;-)
 
 To do :
 
@@ -20,7 +20,7 @@ To do :
 - check for artist new releases
 - album rating system
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
